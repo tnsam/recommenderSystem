@@ -1,4 +1,4 @@
-# recommenderSystem
+# Books Recommender System
 
 One of the objectives of this assignment is to build the books recommender system to recommend the customers the books that they might purchase based on the popularity, customers’ preferences and other active customers which have similar purchase behaviours with the current customer. The types of books recommender system developed includes popularity based, content-based and user-based collaborative filtering. So, the customers can choose to get recommendations based on popularity, content-based filtering or user-based collaborative filtering
 
